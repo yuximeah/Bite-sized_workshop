@@ -4,7 +4,20 @@ project:
 website:
   title: "Bite-sized_workshop"
   navbar:
-    left:
+    left: 
+    - text: "R series"
+      menu: 
+      - text: "Episode 1"
+        href: Episode.html
+      - text: "Episode 2"
+        href: Episode.html
+      - text: "Episode 3"
+        href: Episode.html
+    - text: "Now You See It" 
+      href: xxx.html
+    - text: "Introduction to QGIS"
+      href: introQGIS.html
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
