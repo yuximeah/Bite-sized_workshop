@@ -1,9 +1,15 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: R.jpg
+  links:
+  - icon: linkedin
+    text: linkedin
+    href: https://www.linkedin.com/in/yuximeah/
+  - icon: github
+    text: Github
+    href: https://github.com
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This website consists of a collection of slides used in the bite-sized workshop.
