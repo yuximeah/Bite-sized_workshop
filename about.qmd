@@ -6,7 +6,7 @@ about:
   links:
   - icon: linkedin
     text: linkedin
-    href: https://www.linkedin.com/in/yuximeah/
+    href: https://www.linkedin.com
   - icon: github
     text: Github
     href: https://github.com
